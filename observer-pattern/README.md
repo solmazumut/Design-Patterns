@@ -1,4 +1,4 @@
-#Observer Pattern
+# Observer Pattern
 
 The Observer Pattern defines a one-to-many dependency between objects so that when one objects changes state, all its dependents are notified and updated automatically.
 
@@ -27,4 +27,4 @@ Aposto, on the other hand, publishes all the news.
 
 When new news comes with Swagger, Anadolu Agency sends this news to its followers.
 
-![](observerpattern.png)
+![](observerpattern.jpg)
