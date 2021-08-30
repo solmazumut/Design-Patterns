@@ -34,4 +34,6 @@ public class SwaggerConfig {
                         .description("Observer Pattern Service Restfull Api").version("v0.0.1"))
                 .addSecurityItem(new SecurityRequirement().addList("Authorization", Collections.singletonList("all")));
     }
+
+
 }

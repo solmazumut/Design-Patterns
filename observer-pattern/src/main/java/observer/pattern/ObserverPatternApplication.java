@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.microservices.ecommerce")
+@ComponentScan(basePackageClasses = ObserverPatternApplication.class)
 public class ObserverPatternApplication implements CommandLineRunner {
 
     public static void main(String[] args) {
