@@ -6,6 +6,7 @@
 
 	<modules>
 		<module>observer-pattern</module>
+		<module>strategy-pattern</module>
 	</modules>
 
 	<parent>
